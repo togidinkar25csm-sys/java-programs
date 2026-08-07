@@ -5,7 +5,8 @@ abstract public class Base {
     int x = 10;
 
     void sayMyName() {
-        System.out.println("My name is Togi Dinkar");
+    	 System.out.println("My name is T dinkar");
+    }
     }
 
     abstract void sayMyAge();
